@@ -26,7 +26,7 @@ public class CinemaController {
     @Autowired
     private CinemaHallService cinemaHallService;
 
-
+   // @a
 
     @RequestMapping("/cinema")
     public List<Cinema> getAllLocations(){
